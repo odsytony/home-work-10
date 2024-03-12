@@ -63,10 +63,6 @@ a {
 
 .navbar__link--color {
   color: #34547a;
-  padding: 10px;
-  display: block;
-  transition: scale 0.1s;
-  letter-spacing: 0.1em;
 }
 
 .navbar__link:hover {
